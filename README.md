@@ -2,7 +2,7 @@
 
 This is the backend of my static website the visitor counter.
 
-The visitor counter that is updated after each page visit is done through a function making use of C#
+The visitor counter that is updated after each page visit is done through a function making use of C#.
 
 You can see the [frontend](https://github.com/Kinda-Nefarious/azure-resume) here.
 
