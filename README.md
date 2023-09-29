@@ -6,7 +6,7 @@ The visitor counter that is updated after each page visit is done through a func
 
 You can see the [frontend](https://github.com/Kinda-Nefarious/azure-resume) here.
 
-You can read further about the project on my blog [post.]()
+You can read further about the project on my blog [post.](https://blog.rufaronyakudya.com/azure-resume-challenge)
 
 View the website live [here.](https://resume.rufaronyakudya.com/)
 
